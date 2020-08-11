@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="indicatorColor2" format="color"/>
+    <attr name="indicatorSelectedColor2" format="color"/>
+    <attr name="indicatorGap2" format="dimension"/>
+    <attr name="indicatorItemCount2" format="integer"/>
+    <attr name="indicatorCornerRadius2" format="dimension"/>
+
+    <declare-styleable name="CircleIndicator2">
+        <attr name="indicatorColor2"/>
+        <attr name="indicatorSelectedColor2"/>
+        <attr name="indicatorGap2"/>
+        <attr name="indicatorRadius2" format="dimension"/>
+        <attr name="indicatorItemCount2"/>
+    </declare-styleable>
+
+    <declare-styleable name="RectIndicator2">
+        <attr name="indicatorColor2"/>
+        <attr name="indicatorSelectedColor2"/>
+        <attr name="indicatorGap2"/>
+        <attr name="indicatorItemCount2"/>
+        <attr name="indicatorCornerRadius2"/>
+        <attr name="indicatorWidth2" format="dimension"/>
+        <attr name="indicatorHeight2" format="dimension"/>
+    </declare-styleable>
+</resources>
